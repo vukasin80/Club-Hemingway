@@ -1,0 +1,5 @@
+.vs/
+bin/
+obj/
+*.user
+caffe_shop.db*
