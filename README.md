@@ -37,7 +37,7 @@ CaffeShop/
 
 | Korisnik | Lozinka    | Uloga   | Pristup                          |
 |----------|------------|---------|----------------------------------|
-| admin    | admin123   | Admin   | Sve funkcije                     |
+| vule    | admin123   | Admin   | Sve funkcije                     |
 | konobar1 | konobar123 | Konobar | Narudžbine, Meni, Zaposleni      |
 
 ---
